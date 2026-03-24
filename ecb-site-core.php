@@ -7,11 +7,12 @@
  * Author URI:      YOUR SITE HERE
  * Text Domain:     ecb-site-core
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.2.0
  *
  * @package         Ecb_Site_Core
  */
 
+echo "Update new version";
 
 
 
