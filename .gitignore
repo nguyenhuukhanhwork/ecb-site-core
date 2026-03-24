@@ -7,7 +7,6 @@ node_modules/
 vendor/
 *.sql
 *.tar.gz
-*.zip
 
 # OS
 .DS_Store
