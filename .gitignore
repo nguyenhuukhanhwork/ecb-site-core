@@ -1,0 +1,28 @@
+.DS_Store
+phpcs.xml
+phpunit.xml
+Thumbs.db
+wp-cli.local.yml
+node_modules/
+vendor/
+*.sql
+*.tar.gz
+*.zip
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Build
+dist/
+build/
+
+# WP test (nếu không dùng)
+tests/
+bin/
+phpunit.xml*
